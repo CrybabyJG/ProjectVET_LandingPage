@@ -131,7 +131,7 @@ p{
 
 
 .section1-image2{
-  background-image: url("../img/dog.png");
+  background-image: url("img/dog.png");
   background-repeat: no-repeat;
   background-position: right center;
   background-size: contain; /* O usa un valor fijo */
@@ -237,4 +237,78 @@ h2{
 /* Fin de seccion 3 */
 
 
-/*main*/
+/* fin main*/
+
+/* footer */
+footer{
+  background-color: var(--Dark-Blue);
+  display: flex;
+  padding: 15rem 10%
+}
+
+.footer-logo{
+  position: relative;
+}
+
+.footer-logo img{
+  width: 15rem;
+  height: 15rem;
+}
+
+
+.footer-logo h4{
+  color:var(--White);
+  font-size: 5.5rem;
+  position:absolute;
+  top:-9rem;
+  left: 8rem;
+  font-weight: 700;
+  
+}
+
+.socialnet-group{
+  margin-top: 15rem
+}
+
+.socialnet-group img{
+  margin-right: 2rem;
+  gap: 1rem;
+  width: 10rem;
+  height: 10rem;
+}
+.socialnet-group img:hover{
+  cursor: pointer;
+  transform: scale(1.1);
+}
+.footer-nav1{
+  margin: 0 35rem;
+}
+.footer-nav1 p{
+  color:var(--White);
+  font-size: 4rem;
+  width:fit-content;
+  margin-bottom: 3.5rem;
+}
+
+.footer-nav2{
+  flex-grow: 1;
+}
+.footer-nav2 p{
+  color:var(--White);
+  font-size: 4rem;
+  width:fit-content;
+  margin-bottom: 3.5rem;
+}
+
+.footer-nav1 p:hover, .footer-nav2 p:hover{
+  color:var(--Lime-Green);
+  transform: scale(1.1);
+  cursor: pointer;
+}
+.Rights{
+  text-align: right;
+}
+.Rights p{
+  margin-top: 8rem;
+  font-size: 4rem;
+}
