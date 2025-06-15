@@ -31,6 +31,7 @@ p{
 
 }
 
+/*header*/
 .header{
   display: flex;
   padding: 0 10%;
@@ -101,3 +102,52 @@ p{
 .menu-button, .close-button{
   display: none;
 }
+
+/*fin del header*/
+
+/*main*/
+/*section 1*/
+.section1{
+  position: relative;
+  background-color: var(--Very-Light-Gray);
+  padding-left: 10%;
+  height: 174rem;
+  display: flex;
+  align-items: center;
+}
+
+.section1-content{
+  width: 460px;
+
+}
+.section1-content h1{
+  font-size: 15rem;
+  font-weight: 400;
+}
+
+.section1-content p{
+  margin: 10rem 0 10rem 0;
+}
+
+
+.section1-image2{
+  background-image: url("../img/dog.png");
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: contain; /* O usa un valor fijo */
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 3;
+  width: 100%;   /* o un tamaño más proporcional como 60% */
+  height: 100vh; /* o 80vh, dependiendo del diseño */
+}
+
+/*fin section 1*/
+
+
+
+
+
+
+/*main*/
