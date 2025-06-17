@@ -9,7 +9,7 @@ Bienvenido al repositorio del proyecto **VetCare**, una landing page diseñada p
 
 ## 🌐 Descripción del Proyecto
 
-VetCare es una **landing page responsiva**. Está orientada a brindar información, confianza, facilitar el contacto con los doctores y promover el cuidado responsable de las mascotas.
+VetCare es una **landing page responsiva**. Está orientada a brindar información, confianza, facilitar el contacto y promover el cuidado responsable de las mascotas.
 
 ## 🎯 Objetivos
 
