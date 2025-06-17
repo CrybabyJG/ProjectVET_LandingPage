@@ -1,4 +1,4 @@
-# 🐾 VetCare - Landing Page para VeterinariaAdd commentMore actions
+# 🐾 VetCare - Landing Page para Veterinaria
 
 Bienvenido al repositorio del proyecto **VetCare**, una landing page diseñada para una clínica veterinaria con el objetivo de ofrecer información clara, moderna y accesible sobre los servicios disponibles y el bienestar animal.
 
